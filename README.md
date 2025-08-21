@@ -1,4 +1,4 @@
-# Arcomix---Sistema-de-Controle-de-Acesso-de-Visitantes
+# Arcomix - Sistema de Controle de Acesso de Visitantes
 
 
 ## 💡 Sobre
@@ -52,7 +52,7 @@ O sistema desenvolvido oferece:
 
 - Bianca Guimarães -Gestão de Projetos e Product Owner 
 - Andrew Kauê - Gestão de Projetos e Scrum Master
-- Eloisa de Andrade - Design UX/
+- Eloisa de Andrade - Design UX/UI
 - Cayo Luiz - Design UI/UX  
 - Victor Torres - Design UI/UX
 - Luiz Miguel - Coding Leader
