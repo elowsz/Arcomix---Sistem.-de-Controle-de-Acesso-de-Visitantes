@@ -53,7 +53,8 @@ O sistema desenvolvido oferece:
 - Bianca Guimarães -Gestão de Projetos e Product Owner 
 - Andrew Kauê - Gestão de Projetos e Scrum Master
 - Eloisa de Andrade - Design UX/UI
-- Cayo Luiz - Design UI/UX  
+- Cayo Luiz - Design UI/UX
+- Gustavo Henrique - Design UX/UI
 - Victor Torres - Design UI/UX
 - Luiz Miguel - Coding Leader
 
